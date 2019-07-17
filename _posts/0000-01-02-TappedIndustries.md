@@ -2,5 +2,5 @@
 layout:slide
 title: "Welcome to our second slide!"
 ---
-Your Text
+"God doesn't roll dice" - Einstein
 User the left arrow to go back
